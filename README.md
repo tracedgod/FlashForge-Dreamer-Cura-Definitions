@@ -1,4 +1,5 @@
 # FlashForge Dreamer Cura Definitions (Dual Extruder)
+ ![Cura_GUI_Preview](https://user-images.githubusercontent.com/6174563/210188426-f8184396-4bbb-4e73-81b5-0a15ae26cad3.png)
 
 ## **_DISCLAIMER_**
 All information is provided "as is", with no guarantee of
