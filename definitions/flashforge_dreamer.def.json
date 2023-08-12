@@ -15,7 +15,8 @@
             
             "0": "flashforge_dreamer_extruder_0",
             "1": "flashforge_dreamer_extruder_1"
-            }
+            },
+        "nozzle_offsetting_for_disallowed_areas": false
         },
 
     "overrides": {
